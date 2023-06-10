@@ -42,7 +42,7 @@ Deployed Application (optional): [Flixster Deployed Site](https://mikekebede.git
 
 ### Walkthrough Video
 
-`https://www.loom.com/share/a5fd174fa3ee4a429f541fc400ef609b`
+https://www.loom.com/share/a5fd174fa3ee4a429f541fc400ef609b
 
 ### Reflection
 
