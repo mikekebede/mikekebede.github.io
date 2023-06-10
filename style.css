@@ -1,1 +1,75 @@
+.flixerBody{
+    background-color: rgb(35, 32, 32);
+}
 
+#flixterTitle{
+    color:antiquewhite;
+    text-align: center;
+
+}
+
+#nowPlaying{
+    color:antiquewhite;
+    
+    
+}
+#movieImage{
+    width:200px;
+    height: auto;
+}
+#movieSearchForm{
+    color:antiquewhite;
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    align-self: self;
+    
+
+}
+#searchButton{
+    width:100px;
+    height:40px;
+    
+}
+#searchInput{
+    width: 500px;
+    height:30px;
+}
+.movie-card:hover{
+    color:gold ;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.movie-card{
+    font-size: 18px;
+}
+.movieItem{
+    color:antiquewhite;
+}
+
+.movieGrid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    color:white;
+  }
+#load-more-movies-btn{
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(232, 196, 52, 0.594);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    justify-self: center;
+    justify-content: center;
+}
+#button_load{
+    text-align: center;
+    justify-content: center;
+    align-self: self;
+    
+
+}
