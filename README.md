@@ -47,19 +47,16 @@ https://www.loom.com/share/a5fd174fa3ee4a429f541fc400ef609b
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
-
-Add your response here 
+ 
 - **The topics that were discussed in the lab and also the class were super helpful. I had a hard time working with the search and load pages. It mainly is because we spent less time on the projects and I will adjust the upcoming week and see if I can orient myself better**
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
 **- sorting based on users preference**
 **- doing all the optional features especially the popup**
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-
-Add your response here : **I think debugging was hard as it was a new language and definately getting started as well. It took me a lot of time to see **
+ **I think debugging was hard as it was a new language and definately getting started as well. It took me a lot of time to see **
 
 ### Open-source libraries used
 
